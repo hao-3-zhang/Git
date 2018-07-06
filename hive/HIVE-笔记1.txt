@@ -1,3 +1,5 @@
+hive_01
+
 数据
 ------------
 	[customers.txt]
